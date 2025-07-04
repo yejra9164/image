@@ -1,0 +1,21 @@
+.container{
+    width: 100%;
+    border: 1px solid chartreuse;
+    /* height: 500px; */
+    padding: 5px;
+    margin: 100px;
+
+
+}
+.item-1, .item-2, .item-3, .item-4{
+    /* height: 50px; */
+    width: 450px;
+    border: 2px solid cornflowerblue;
+    display: inline-block;
+    padding: 5px;
+}
+
+img{
+    width: 100%;
+}
+
